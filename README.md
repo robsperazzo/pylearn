@@ -1,1 +1,3 @@
 # pylearn
+
+Vou ser pythonista.
