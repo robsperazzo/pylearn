@@ -3,10 +3,10 @@ import sys
 import time
 from suspense import suspenseprint
 
-lives = 5
-secret = random.randrange(1,11)
+lives = 3
+secret = random.randrange(1,21)
 
-suspenseprint("to pensando num numero de 1 ate 10.")
+suspenseprint("to pensando num numero de 1 ate 20.")
 
 while lives > 0:
     suspenseprint("adivinha!")
